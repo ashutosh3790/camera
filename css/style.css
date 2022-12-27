@@ -9,6 +9,7 @@
 }
 body{background-color: #0C0F14;box-sizing: border-box;margin:0px;padding: 0px;
     width: 100%;
+    
 }
 .one{
 padding:0px 4%;
@@ -53,9 +54,7 @@ button{
 }
 /* HERO------------------------------------------------------------------------------------------------------------------------------------- */
 header{
-    background-image: url("/Mirrorless_cameras.png");
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url("/images/bgimg.png") no-repeat fixed;
     width: 100%;
     height: 800px;
 }
