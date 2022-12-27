@@ -53,7 +53,7 @@ button{
 }
 /* HERO------------------------------------------------------------------------------------------------------------------------------------- */
 header{
-    background-image: url("/Mirrorless_cameras.png");
+    background-image: url("Mirrorless_cameras.png");
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
