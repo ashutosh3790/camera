@@ -44,7 +44,7 @@ ul{ display: flex;
 }
 /* header ---------------------------------------------------------------------------------------------------------------------------------*/
 header{
-    background: url("file:///D:/HTML/web%20tech%201/site1/camera/images/bgimg.png") no-repeat fixed;
+    background: url("file:///D:/HTML/web%20tech%201/site1/camera/images/bgimg.png") no-repeat;
     width: 100%;
     height: 800px;
     display: flex;
@@ -65,7 +65,17 @@ header{
     justify-content:flex-start;
     text-align: center;
 }
-
+a:link{ text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color:gainsboro;
+}
 #heads{
 font-size: 45px;
 margin-bottom: 15%;

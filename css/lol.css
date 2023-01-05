@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+#one{
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+#two{
+    color: white;
+    font-size: 150px;
+    font-weight: 400;
+}
+#three{
+    color: white;
+    font-size: 80px;
+    font-weight: 300;
+}
+#four{
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 200;
+}
+a:link{ text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color:gainsboro;
+}

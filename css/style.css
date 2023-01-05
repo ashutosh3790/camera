@@ -14,6 +14,17 @@ body{background-color: #0C0F14;box-sizing: border-box;margin:0px;padding: 0px;
 .one{
 padding:0px 4%;
 }
+a:link{ text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color:gainsboro;
+}
 /* NAVIGATION------------------------------------------------------------------------------------------------------------------ */
 nav{
     display: flex;align-items: center;flex-direction: row;
