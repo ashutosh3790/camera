@@ -41,6 +41,7 @@ nav{
     margin: 0% 2%;
     font-family: 'Comfortaa', cursive;
     font-size:x-large;
+    color: white;
 }
 #navelements{
 flex-grow: 3;
@@ -52,6 +53,7 @@ ul{ display: flex;
     margin: 0px 10px;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
+    color: white;
 }
 button{
     width:90px;
